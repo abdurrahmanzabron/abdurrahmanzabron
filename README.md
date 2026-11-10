@@ -8,7 +8,8 @@
 
 ### ⚡ What I work on
 
-- **Control systems:** modeling, controller design, and industrial automation
+- **Control systems:** modeling and controller design for industrial processes
+- **Industrial automation:** DCS (Distributed Control Systems) and SCADA
 - **Artificial intelligence:** machine learning models for intelligent and data-driven control
 
 ### 🛠️ Tech stack
@@ -20,7 +21,7 @@
 
 ### 🔬 Current focus
 
-Combining **control systems** and **AI** to build intelligent controllers, from system modeling to learning-based control.
+Bringing **AI** into **industrial control**, using data from DCS and SCADA systems to build smarter, more reliable process control.
 
 ### 📫 Get in touch
 
