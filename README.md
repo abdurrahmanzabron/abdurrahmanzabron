@@ -9,7 +9,7 @@
 ### ⚡ What I work on
 
 - **Control systems:** modeling and controller design for industrial processes
-- **Industrial automation:** DCS (Distributed Control Systems) and SCADA, with experience on **Allen-Bradley (Rockwell)** and **ABB** platforms, plus hands-on exposure to **Yokogawa DCS** during an internship
+- **Industrial automation:** DCS (Distributed Control Systems) and SCADA, with experience on **Allen-Bradley (Rockwell, Studio 5000)** and **ABB** platforms, plus hands-on exposure to **Yokogawa DCS** during an internship
 - **Artificial intelligence:** machine learning models for intelligent and data-driven control
 
 ### 🛠️ Tech stack
