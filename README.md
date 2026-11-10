@@ -1,6 +1,6 @@
 # Hi, I'm Abdurrahman Zabron 👋
 
-**Electrical Engineer** based in Indonesia, working where power, embedded systems, and signal processing meet.
+**Electrical Engineer** based in Indonesia, working at the intersection of control systems, machine learning, embedded systems, and signal processing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdurrahman%20Zabron-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman-zabron-5322ab2a0/)
 
@@ -8,15 +8,18 @@
 
 ### ⚡ What I work on
 
-- **Electrical engineering:** power distribution, electrical design, and industrial systems
+- **Control systems:** modeling, controller design, and industrial automation
+- **Machine learning:** data-driven models for sensor and signal data
 - **Embedded systems:** ESP32 firmware (C/C++, PlatformIO / ESP-IDF), sensors, BLE
-- **Biomedical signal processing:** PPG, heart rate, HRV, and SpO₂ estimation
+- **Signal processing:** filtering and feature extraction, including biomedical signals (PPG, HRV, SpO₂)
 - **IoT:** connecting hardware to dashboards and data pipelines
 
 ### 🛠️ Tech stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat&logo=platformio&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/BLE-0082FC?style=flat&logo=bluetooth&logoColor=white)
