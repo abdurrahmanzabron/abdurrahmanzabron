@@ -25,9 +25,9 @@
 ![Bluetooth](https://img.shields.io/badge/BLE-0082FC?style=flat&logo=bluetooth&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🔬 Current project
+### 🔬 Current focus
 
-**PPG Health Monitor:** MAX30102 pulse-oximetry sensor + ESP32, streaming over BLE to a live dashboard for heart rate, HRV, and SpO₂ analysis. *(Repository coming soon.)*
+Building intelligent embedded systems that combine **control systems**, **machine learning**, and **signal processing**, from sensor to model to real-time control.
 
 ### 📫 Get in touch
 
